@@ -14,36 +14,44 @@ import pandas as pd
 import googlemaps as gm
 
 
-my_key  ='???????????????'
+my_key  ='AIzaSyCxE0QGQuHNOQ1WG5Qt3IUF3KDLBTc6KZo'
 
-
+# On utilise comme base un fichier listant les 100 plus grandes villes
 filename = './ville.csv'
-df = pd.read_csv(filename, sep=',', index_col=0)
+df_ville = pd.read_csv(filename, sep=',', index_col=0)
 
 
-#print(df)
-
-origins = [df.iloc[i,0] for i in range(0, 2)]
+origins = [df_ville.iloc[i,0] for i in range(0, 10)]
 destinations = origins
-
 print(origins)
 
+
 client = gm.Client(key=my_key)
+distance_matrix = gm.client.distance_matrix(client, origins, destinations,
+                                            mode='driving')
 
-for i in origins:
-    for j  in destinations:
-        distance_matrix = gm.client.distance_matrix(client, i, j)
+df = pd.DataFrame(index=origins, columns=origins)
+
+# Here, we print it as a Cartesian product.
+for isrc, src in enumerate(distance_matrix['origin_addresses']):
+    for idst, dst in enumerate(distance_matrix['destination_addresses']):
+        if isrc <= idst:
+            row = distance_matrix['rows'][isrc]
+            cell = row['elements'][idst]
+            if cell['status'] == 'OK':
+                df.at[origins[isrc], origins[idst]] = int(cell['distance']['value']/1000)
+                #print('{} to {}: {}, {}.'.format(src, dst, cell['distance']['text'], cell['duration']['text']))
+            else:
+                print('{} to {}: status = {}'.format(src, dst, cell['status']))
 
 
-
-print(distance_matrix)
-
-print(type(distance_matrix), len(distance_matrix))
-
-#df.loc[len(df)] = infos
-#distance_matrix.to_csv('./distance_matrix.csv', index=False)
+df.fillna(value='-', inplace=True)
+df.to_csv('./distance_km_matrix.csv', index=True)
+print(df)
 
 
+# distance_matrix['rows'][i] ==> information pour la ie origine vers toutes les destinations
+  # distance_matrix['rows'][i]['elements'][j] ==> ie origine vers la je destination
 
 #def distance_matrix(client, origins, destinations,
 #                    mode=None, language=None, avoid=None, units=None,
