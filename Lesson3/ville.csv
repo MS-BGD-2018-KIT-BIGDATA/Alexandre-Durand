@@ -1,0 +1,101 @@
+Classement,Ville,Région,Nb habitants
+1,Paris,Île-de-France,2240621
+2,Marseille,Provence-Alpes-Côte d'Azur,852516
+3,Lyon,Rhône-Alpes,496343
+4,Toulouse,Midi-Pyrénées,453317
+5,Nice,Provence-Alpes-Côte d'Azur,343629
+6,Nantes,Pays de la Loire,291604
+7,Strasbourg,Alsace,274394
+8,Montpellier,Languedoc-Roussillon,268456
+9,Bordeaux,Aquitaine,241287
+10,Lille,Nord-Pas-de-Calais,228652
+11,Rennes,Bretagne,209860
+12,Reims,Champagne-Ardenne,181893
+13,Le Havre,Haute-Normandie,173142
+14,Saint-Étienne,Rhône-Alpes,171483
+15,Toulon,Provence-Alpes-Côte d'Azur,164899
+16,Grenoble,Rhône-Alpes,158346
+17,Dijon,Bourgogne,152071
+18,Angers,Pays de la Loire,149017
+19,Nîmes,Languedoc-Roussillon,146709
+20,Villeurbanne,Rhône-Alpes,146282
+21,Saint-Denis,La Réunion,145238
+22,Le Mans,Pays de la Loire,143599
+23,Clermont-Ferrand,Auvergne,141569
+24,Aix-en-Provence,Provence-Alpes-Côte d'Azur,141148
+25,Brest,Bretagne,139676
+26,Limoges,Limousin,136221
+27,Tours,Centre-Val de Loire,134978
+28,Amiens,Picardie,132727
+29,Perpignan,Languedoc-Roussillon,120489
+30,Metz,Lorraine,119551
+31,Boulogne-Billancourt,Île-de-France,117126
+32,Besançon,Franche-Comté,116353
+33,Orléans,Centre-Val de Loire,114286
+34,Rouen,Haute-Normandie,111557
+35,Mulhouse,Alsace,110755
+36,Caen,Basse-Normandie,108365
+37,Saint-Denis,Île-de-France,108274
+38,Nancy,Lorraine,105067
+39,Argenteuil,Île-de-France,104962
+40,Saint-Paul,La Réunion,104646
+41,Montreuil,Île-de-France,103520
+42,Roubaix,Nord-Pas-de-Calais,94536
+43,Tourcoing,Nord-Pas-de-Calais,92707
+44,Dunkerque,Nord-Pas-de-Calais,90995
+45,Nanterre,Île-de-France,90722
+46,Créteil,Île-de-France,89845
+47,Avignon,Provence-Alpes-Côte d'Azur,89380
+48,Vitry-sur-Seine,Île-de-France,88102
+49,Poitiers,Poitou-Charentes,87646
+50,Courbevoie,Île-de-France,86854
+51,Fort-de-France,Martinique,85667
+52,Versailles,Île-de-France,85424
+53,Colombes,Île-de-France,85357
+54,Asnières-sur-Seine,Île-de-France,83845
+55,Aulnay-sous-Bois,Île-de-France,81899
+56,Saint-Pierre,La Réunion,80823
+57,Rueil-Malmaison,Île-de-France,79563
+58,Pau,Aquitaine,78506
+59,Aubervilliers,Île-de-France,77032
+60,Champigny-sur-Marne,Île-de-France,75869
+61,Le Tampon,La Réunion,75631
+62,Antibes,Provence-Alpes-Côte d'Azur,75568
+63,Saint-Maur-des-Fossés,Île-de-France,74176
+64,La Rochelle,Poitou-Charentes,74123
+65,Cannes,Provence-Alpes-Côte d'Azur,73603
+66,Béziers,Languedoc-Roussillon,72970
+67,Calais,Nord-Pas-de-Calais,72589
+68,Saint-Nazaire,Pays de la Loire,67940
+69,Colmar,Alsace,67257
+70,Drancy,Île-de-France,67181
+71,Bourges,Centre-Val de Loire,66666
+72,Mérignac,Aquitaine,66660
+73,Ajaccio,Corse,66245
+74,Issy-les-Moulineaux,Île-de-France,65322
+75,Levallois-Perret,Île-de-France,64654
+76,La Seyne-sur-Mer,Provence-Alpes-Côte d'Azur,63902
+77,Quimper,Bretagne,63360
+78,Noisy-le-Grand,Île-de-France,62592
+79,Valence,Rhône-Alpes,62481
+80,Villeneuve-d'Ascq,Nord-Pas-de-Calais,62308
+81,Neuilly-sur-Seine,Île-de-France,62021
+82,Antony,Île-de-France,61624
+83,Vénissieux,Rhône-Alpes,61183
+84,Cergy,Île-de-France,60528
+85,Troyes,Champagne-Ardenne,60009
+86,Clichy,Île-de-France,59240
+87,Pessac,Aquitaine,59223
+88,Les Abymes,Guadeloupe,58606
+89,Ivry-sur-Seine,Île-de-France,58579
+90,Chambéry,Rhône-Alpes,58039
+91,Lorient,Bretagne,57706
+92,Niort,Poitou-Charentes,57607
+93,Sarcelles,Île-de-France,57499
+94,Montauban,Midi-Pyrénées,56887
+95,Villejuif,Île-de-France,56504
+96,Saint-Quentin,Picardie,56217
+97,Hyères,Provence-Alpes-Côte d'Azur,55402
+98,Cayenne,Guyane,55198
+99,Épinay-sur-Seine,Île-de-France,55140
+100,Saint-André,La Réunion,54721

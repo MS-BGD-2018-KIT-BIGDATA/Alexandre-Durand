@@ -1,0 +1,139 @@
+ZOE_model,Model_Year,KM,Price,Phone_Num,Region,Vendor_type
+Intens,2017,4000,16800,Numéro Inconnu,ile_de_france,particulier
+Inconnu,2017,20000,15900,Numéro Inconnu,ile_de_france,particulier
+Life,2014,29000,9700,Numéro Inconnu,ile_de_france,particulier
+Life,2016,5700,8900,Numéro Inconnu,ile_de_france,particulier
+Life,2013,27500,7800,Numéro Inconnu,ile_de_france,particulier
+Intens,2013,24000,10300,Numéro Inconnu,ile_de_france,particulier
+Intens,2013,39500,8900,Numéro Inconnu,ile_de_france,particulier
+Zen,2013,19900,9100,Numéro Inconnu,ile_de_france,particulier
+Intens,2014,49000,8990,Numéro Inconnu,ile_de_france,particulier
+Zen,2013,47000,8300,Numéro Inconnu,ile_de_france,particulier
+Intens,2013,29500,7950,Numéro Inconnu,ile_de_france,particulier
+Zen,2013,55300,8000,Numéro Inconnu,ile_de_france,particulier
+Zen,2015,11900,9000,Numéro Inconnu,ile_de_france,particulier
+Intens,2015,20000,10450,Numéro Inconnu,ile_de_france,particulier
+Zen,2017,7400,16800,Numéro Inconnu,ile_de_france,particulier
+Zen,2017,17800,15000,Numéro Inconnu,ile_de_france,particulier
+Intens,2015,6000,10990,Numéro Inconnu,ile_de_france,particulier
+Intens,2015,65000,10500,Numéro Inconnu,ile_de_france,particulier
+Life,2014,10207,10290,0805805802,ile_de_france,professionnel
+Life,2014,27026,9480,0805805802,ile_de_france,professionnel
+Life,2014,21013,7900,0134301285,ile_de_france,professionnel
+Intens,2015,15254,10990,0164597186,ile_de_france,professionnel
+Life,2014,28537,7900,0134301285,ile_de_france,professionnel
+Life,2013,8751,8990,0164597186,ile_de_france,professionnel
+Life,2017,240,13990,0160657097,ile_de_france,professionnel
+Life,2015,7248,10690,0178455073,ile_de_france,professionnel
+Life,2015,11480,10300,0175448151,ile_de_france,professionnel
+Intens,2014,34121,10790,0805805802,ile_de_france,professionnel
+Intens,2015,9474,10980,0805805802,ile_de_france,professionnel
+Life,2014,10207,10290,0805805802,ile_de_france,professionnel
+Life,2016,9087,10480,0805805802,ile_de_france,professionnel
+Life,2016,2000,10890,0805805802,ile_de_france,professionnel
+Zen,2013,17900,9490,0603071849,ile_de_france,professionnel
+Zen,2014,24147,10100,0170176498,ile_de_france,professionnel
+Intens,2015,21120,10880,0175834054,ile_de_france,professionnel
+Life,2015,7079,10890,0185500387,ile_de_france,professionnel
+Zen,2013,23660,9200,0175448151,ile_de_france,professionnel
+Intens,2014,2700,10490,Numéro Inconnu,ile_de_france,professionnel
+Life,2014,7039,9500,0182714652,ile_de_france,professionnel
+Life,2014,25257,8980,0182714652,ile_de_france,professionnel
+Life,2013,13484,8500,0182714652,ile_de_france,professionnel
+Intens,2013,32671,8690,0174037256,ile_de_france,professionnel
+Zen,2017,6500,18500,0184040214,ile_de_france,professionnel
+Zen,2013,31250,8480,0185470460,ile_de_france,professionnel
+Life,2013,31451,7990,0677372750,ile_de_france,professionnel
+Life,2013,70896,6790,0164572000,ile_de_france,professionnel
+Life,2016,6667,10890,0185500387,ile_de_france,professionnel
+Zen,2017,500,16390,0184030570,ile_de_france,professionnel
+Life,2015,17940,9900,0164393333,ile_de_france,professionnel
+Zen,2015,3100,11590,0178455073,ile_de_france,professionnel
+Intens,2015,40095,10700,0178455073,ile_de_france,professionnel
+Zen,2013,81404,8700,0178455073,ile_de_france,professionnel
+Intens,2014,18815,10900,0178455073,ile_de_france,professionnel
+Zen,2016,15000,10000,Numéro Inconnu,aquitaine,particulier
+Life,2016,21200,9200,Numéro Inconnu,aquitaine,particulier
+Life,2014,46800,7800,Numéro Inconnu,aquitaine,particulier
+Life,2016,11000,9300,Numéro Inconnu,aquitaine,particulier
+Life,2014,48000,9500,Numéro Inconnu,aquitaine,particulier
+Zen,2013,49000,8000,Numéro Inconnu,aquitaine,particulier
+Life,2017,9000,15000,Numéro Inconnu,aquitaine,particulier
+Intens,2013,29500,8500,Numéro Inconnu,aquitaine,particulier
+Life,2015,30000,14000,Numéro Inconnu,aquitaine,particulier
+Life,2016,32000,9500,Numéro Inconnu,aquitaine,particulier
+Zen,2013,46300,8200,0610583214,aquitaine,particulier
+Life,2016,9746,11490,0558909010,aquitaine,professionnel
+Life,2014,38049,8990,0553405559,aquitaine,professionnel
+Life,2014,65387,7490,0531081576,aquitaine,professionnel
+Life,2015,17500,9450,0531081574,aquitaine,professionnel
+Zen,2014,27545,9990,0612045861,aquitaine,professionnel
+Life,2015,17076,9950,0531081574,aquitaine,professionnel
+Life,2015,10295,9600,0531081640,aquitaine,professionnel
+Intens,2015,10132,12000,0649173452,aquitaine,professionnel
+Zen,2014,35858,10100,0564283208,aquitaine,professionnel
+Life,2014,46385,8990,0531081576,aquitaine,professionnel
+Life,2014,42351,7950,0531081574,aquitaine,professionnel
+Zen,2013,38077,9500,0564283208,aquitaine,professionnel
+Life,2016,20300,10995,0553881330,aquitaine,professionnel
+Zen,2015,6600,10990,0556132965,aquitaine,professionnel
+Zen,2014,38087,8600,0531081640,aquitaine,professionnel
+Life,2014,55000,9490,0675008314,aquitaine,professionnel
+Life,2015,48957,9290,0531081450,aquitaine,professionnel
+Life,2016,3000,13300,0516066011,aquitaine,professionnel
+Life,2013,470,9200,0531081640,aquitaine,professionnel
+Life,2016,4619,11990,0531081576,aquitaine,professionnel
+Zen,2014,15143,8990,0531081576,aquitaine,professionnel
+Life,2014,24088,8690,0531081576,aquitaine,professionnel
+Life,2014,34301,8490,0531081576,aquitaine,professionnel
+Life,2014,10690,8990,0531081576,aquitaine,professionnel
+Intens,2014,37441,9490,0531081576,aquitaine,professionnel
+Life,2016,7701,10500,0531081576,aquitaine,professionnel
+Intens,2015,16370,9950,0531081574,aquitaine,professionnel
+Zen,2014,9094,8990,0531081576,aquitaine,professionnel
+Life,2015,20942,9500,0531081643,aquitaine,professionnel
+Intens,2014,42836,10590,0558909010,aquitaine,professionnel
+Life,2015,6791,9490,0531081574,aquitaine,professionnel
+Life,2016,5145,12989,0558464140,aquitaine,professionnel
+Life,2016,10,12990,0531081450,aquitaine,professionnel
+Life,2016,3000,13500,0516066011,aquitaine,professionnel
+Life,2015,17611,9500,0531081574,aquitaine,professionnel
+Intens,2017,12000,15500,Numéro Inconnu,provence_alpes_cote_d_azur,particulier
+Zen,2016,7609,14000,Numéro Inconnu,provence_alpes_cote_d_azur,particulier
+Intens,2016,8800,10900,Numéro Inconnu,provence_alpes_cote_d_azur,particulier
+Intens,2013,76000,7500,Numéro Inconnu,provence_alpes_cote_d_azur,particulier
+Life,2016,979,10990,0805805802,provence_alpes_cote_d_azur,professionnel
+Life,2016,10356,10690,0805805802,provence_alpes_cote_d_azur,professionnel
+Intens,2016,13731,12790,0422170107,provence_alpes_cote_d_azur,professionnel
+Intens,2015,16468,10490,0422170107,provence_alpes_cote_d_azur,professionnel
+Intens,2016,9000,12900,0422171005,provence_alpes_cote_d_azur,professionnel
+Life,2016,7456,10900,0632681662,provence_alpes_cote_d_azur,professionnel
+Intens,2013,13976,8990,0608548996,provence_alpes_cote_d_azur,professionnel
+Life,2015,18768,9990,0608548996,provence_alpes_cote_d_azur,professionnel
+Intens,2014,31200,9990,Numéro Inconnu,provence_alpes_cote_d_azur,professionnel
+Life,2016,8184,11390,0805805802,provence_alpes_cote_d_azur,professionnel
+Life,2014,30219,9490,0805805802,provence_alpes_cote_d_azur,professionnel
+Intens,2016,11457,10690,0463211124,provence_alpes_cote_d_azur,professionnel
+Intens,2013,41370,8290,Numéro Inconnu,provence_alpes_cote_d_azur,professionnel
+Life,2014,13906,9390,0422170108,provence_alpes_cote_d_azur,professionnel
+Life,2015,14351,10490,0422170122,provence_alpes_cote_d_azur,professionnel
+Intens,2013,36812,9990,0422170191,provence_alpes_cote_d_azur,professionnel
+Intens,2014,36556,8990,0422170122,provence_alpes_cote_d_azur,professionnel
+Life,2014,24890,8880,0422170122,provence_alpes_cote_d_azur,professionnel
+Intens,2014,31456,9590,0422170122,provence_alpes_cote_d_azur,professionnel
+Intens,2015,8109,11990,0422170199,provence_alpes_cote_d_azur,professionnel
+Zen,2015,7868,11700,0484320243,provence_alpes_cote_d_azur,professionnel
+Intens,2015,14546,11700,0618402010,provence_alpes_cote_d_azur,professionnel
+Intens,2014,14000,9690,0489974537,provence_alpes_cote_d_azur,professionnel
+Zen,2015,17558,11700,0422170181,provence_alpes_cote_d_azur,professionnel
+Life,2016,9446,9490,0490188023,provence_alpes_cote_d_azur,professionnel
+Life,2016,4500,12900,0687808813,provence_alpes_cote_d_azur,professionnel
+Intens,2015,30000,10000,0442224747,provence_alpes_cote_d_azur,professionnel
+Zen,2015,11480,11700,0618402010,provence_alpes_cote_d_azur,professionnel
+Life,2014,37413,9800,0618402010,provence_alpes_cote_d_azur,professionnel
+Zen,2014,23286,9290,0490319881,provence_alpes_cote_d_azur,professionnel
+Life,2013,60990,8900,0664589849,provence_alpes_cote_d_azur,professionnel
+Intens,2014,28600,9900,0687808813,provence_alpes_cote_d_azur,professionnel
+Intens,2014,9222,11490,0422170199,provence_alpes_cote_d_azur,professionnel
+Life,2014,25333,9490,0490188023,provence_alpes_cote_d_azur,professionnel
+Life,2016,7911,10990,0805805802,provence_alpes_cote_d_azur,professionnel
