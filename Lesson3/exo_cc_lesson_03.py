@@ -13,8 +13,9 @@ Created on Fri Oct  6 13:31:31 2017
 import pandas as pd
 import googlemaps as gm
 
-
-my_key  ='AIzaSyCxE0QGQuHNOQ1WG5Qt3IUF3KDLBTc6KZo'
+# /!\ INSERT YOUR OWN KEY /!\
+# =========================== 
+my_key  =''
 
 # On utilise comme base un fichier listant les 100 plus grandes villes
 filename = './ville.csv'
