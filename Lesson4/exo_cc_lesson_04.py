@@ -82,7 +82,6 @@ def getInfosForMed(codeCIS):
     # Dosage de Référence en IBUPROFENE
     if json_medoc['compositions'][0]['substancesActives'][0]['denominationSubstance'].lower().rfind("ibuprof") != -1 :
         dosageIbu = json_medoc['compositions'][0]['substancesActives'][0]['dosageSubstance']
-        print(dosageIbu)
         if dosageIbu != "":
             qty_dosage = float(dosageIbu.split(" ")[0].replace(',', '.'))
             unit_dosage = dosageIbu.split(" ")[1]
